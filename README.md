@@ -1,5 +1,7 @@
-Junior
-======
-
-A framework for building HTML5 mobile apps with a native look and feel.
-Check out the github page: http://justspamjustin.github.com/junior
+## Sample App using Junior Framework
+```
+git clone https://github.com/jay3dec/Junior_App_Part_1.git
+cd Junior_App_Part_1
+bower install
+```
+Browse app.html

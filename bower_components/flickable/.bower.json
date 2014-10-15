@@ -1,0 +1,13 @@
+{
+  "name": "flickable",
+  "_cacheHeaders": {
+    "ETag": "\"aceb05a2afcd4226bc3c4ff7c03e2e037639f830\"",
+    "Content-Length": "17795",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:aceb05a2a",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/tomlongo/Flickable.js/master/src/zepto.flickable.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/tomlongo/Flickable.js/master/src/zepto.flickable.js"
+}
